@@ -1,11 +1,13 @@
-# Grand Theft Apu
+# $BALLS — Balls & My Word
 
-Static website with an autoplay video hero, story missions, image gallery, wanted-level HUD and official X link.
+A static Miami / Vice City inspired meme site. Pastel sunsets, Tony Montana illustrations, market-crash lore, responsive navigation and a keyboard-accessible gallery.
 
-## Run locally
+## Run
+Serve this directory with a static HTTP server, e.g. `npx serve .`.
 
-Serve this folder with any static HTTP server, for example `npx serve .`.
+## Launch details
+Set `socialUrl` and `contractAddress` in `script.js` when official links are ready. Until then, the buttons explain that launch details are coming soon.
 
-The trailer is `assets/hero.mp4`. Social and video settings are in `script.js`.
+All prices/charts in the artwork are fictional story elements. No live market data or trading is implemented.
 
-Fan-made parody project. Not affiliated with Rockstar Games or Take-Two Interactive.
+Original APU files remain in Git history. The previous video is retained as an unused asset.
